@@ -1,4 +1,4 @@
-# AdvancedOO
+# Advanced Obeject Orientation
 
 Advanced object-oriented programming techniques such as graphical user interfaces, animation, sound, music, networking, parallelism, 
 client-server and XML using game design as an example. Topics in object-oriented program design including UML and design patterns. 
